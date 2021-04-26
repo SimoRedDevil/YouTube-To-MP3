@@ -1,0 +1,9 @@
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\bin\Debug\YouTube To MP3.exe.config
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\bin\Debug\YouTube To MP3.exe
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\bin\Debug\YouTube To MP3.pdb
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\obj\Debug\YouTube_To_MP3.Form1.resources
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\obj\Debug\YouTube_To_MP3.Properties.Resources.resources
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\obj\Debug\YouTube To MP3.csproj.GenerateResource.cache
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\obj\Debug\YouTube To MP3.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\obj\Debug\YouTube To MP3.exe
+C:\Users\Pavilion\source\repos\YouTube To MP3\YouTube To MP3\obj\Debug\YouTube To MP3.pdb
